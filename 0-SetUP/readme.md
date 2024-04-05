@@ -1,7 +1,6 @@
+**Get Started with Jetson Nano Developer Kit**
 
-Get Started with Jetson Nano Developer Kit
-
-Introduction: The NVIDIA® Jetson Nano™ Developer Kit is a small AI computer for makers, learners, and developers. After following along with this brief guide, you’ll be ready to start building practical AI applications, cool AI robots, and more.
+**Introduction**: The NVIDIA® Jetson Nano™ Developer Kit is a small AI computer for makers, learners, and developers. After following along with this brief guide, you’ll be ready to start building practical AI applications, cool AI robots, and more.
  
 1.	microSD card slot for main storage
 2.	40-pin expansion header
@@ -12,9 +11,10 @@ Introduction: The NVIDIA® Jetson Nano™ Developer Kit is a small AI computer f
 7.	DisplayPort Connected
 8.	DC Barrel jack for 5V power input
 9.	MIPI CSI 2 camera connectors
-Prepare for Setup:
+    
+**Prepare for Setup:
 Required Items for getting started
-microSD Card
+microSD Card**
 The Jetson Nano Developer Kit uses a microSD card as a boot device and for main storage. It’s important to have a card that’s fast and large enough for your projects; the minimum recommended is a 32 GB UHS-1 card.
 Micro-USB Power Supply
 You’ll need to power the developer kit with a good quality power supply that can deliver 5V⎓2A at the developer kit’s Micro-USB port. Not every power supply promising “5V⎓2A” will actually do this.
